@@ -6,8 +6,7 @@ body {
     text-align: center;
 }
 
-h1,
-h2 {
+h1 , h2 {
     color: darkred;
 }
 
@@ -16,10 +15,10 @@ p,
 li {
     color: green;
 }
-/*img {
+img {
     width: 35%;
-    height: 25%;
-}*/
+    height: 25%;margin: 8px;
+}
 
 main {
     margin: 0 20%;
@@ -75,7 +74,7 @@ nav a:hover {
 }
 
 table {
-    border: 3px solid black;
+    border: 3px solid rgb(4, 28, 244);
     width: 100%;
 }
   
